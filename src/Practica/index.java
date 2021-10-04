@@ -6,7 +6,7 @@ public class index {
 		// TODO Auto-generated method stub
 
 		
-		System.out.print("Hola mundo");
+		System.out.print("Hola mundo de rama 2");
 	}
 
 }
